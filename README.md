@@ -4,6 +4,7 @@
 
 ​	依托Tensorflow-Keras框架，以六层的CNN进行简单的图像分类处理，在CIFAR10数据集中进行训练，使用交叉墒作为Loss函数，使用Accuracy作为模型评估的标准。
 
+**代码文件为Keras.py。**
 ## 运行说明
 
 ​	必备环境：
